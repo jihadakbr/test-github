@@ -6,3 +6,5 @@ import seaborn as sns
 code dari kak cleonie
 
 # code eksperimen berasal dari branch jihad
+
+code main pada hari berikutnya
